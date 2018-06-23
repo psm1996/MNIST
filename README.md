@@ -1,2 +1,2 @@
-# saurabh
-trying first repository
+# MNSIT
+Applying-Convolutional-Neural-Network-on-the-MNIST-dataset USING Keras
